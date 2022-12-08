@@ -1,7 +1,6 @@
 {
   "name": "effective-typescript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "ts-node": "^10.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dltnk9/TypeScriptStudy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dltnk9/TypeScriptStudy/issues"
+  },
+  "homepage": "https://github.com/dltnk9/TypeScriptStudy#readme",
+  "description": ""
 }
