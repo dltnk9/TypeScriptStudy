@@ -5,5 +5,9 @@ const states = [
   // ...
 ];
 for (const state of states) {
-  console.log(state.capitol);
+  console.log(`${state.capital} ${state.name}`);
 }
+
+// for (const study of states) {
+//   console.log(study.name)
+// }
